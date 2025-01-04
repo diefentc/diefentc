@@ -2,19 +2,20 @@
 
 Currently I am in my sophomore year in the Computer Programmer/Analyst Program at Lansing Community College
 
-### 💻 My Skills  
-
-- Programming Languages: Python
-- Database Creation and Management
-- Databases: SQlite, Postgres
-- Version Control: Git
-
-### What I'm Currently Learning  
-- Web Development: HTML/CSS/Javascript
-- Principles of Micro Economics
 
 ### Education
 - Currently studying at Lansing Community College
+
+### 💻 My Skills  
+
+- Programming Languages: Python, JavaScript, Java
+- Database Creation and Management
+- Databases: SQlite, Postgres
+- Version Control: Git, Azure Devops Repos, BitBucket
+
+### What I'm Currently Learning  
+- CITP 165 - Web Development JavaScript - 80362
+- CITP 230 - Mobile App Development for Android - 80551
 
 ### 📫 Contact Me
 - Email: diefentc@lcc.mail.edu
